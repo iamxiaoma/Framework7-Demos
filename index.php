@@ -7,6 +7,6 @@
 	<link rel="stylesheet" href="">
 </head>
 <body>
-	Framework7-Demos
+	Framework7-Demos php
 </body>
 </html>
